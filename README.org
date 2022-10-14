@@ -1,5 +1,5 @@
 #+TITLE:     Custom org-html theme
 * Overview
-
+** UNFINISHED PROJECT
 ** Description
-forked by: https://github.com/fniessen/org-html-themes
+customized version of [[https://github.com/fniessen/org-html-themes][org-html-themes]]
